@@ -1,0 +1,17 @@
+﻿<Configuration>
+  <Add OfficeClientEdition="32" Channel="Deferred" OfficeMgmtCOM="True">
+    <Product ID="None">
+      <Language ID="en-US" />
+    </Product>
+    <Product ID="ProjectProRetail">
+      <Language ID="en-US" />
+    </Product>
+    <Product ID="None">
+      <Language ID="en-US" />
+    </Product>
+  </Add>
+  <Display AcceptEULA="TRUE" />
+  <Property Name="SharedComputerLicensing" Value="0" />
+  <Property Name="PinIconsToTaskbar" Value="TRUE" />
+  <Property Name="AUTOACTIVATE" Value="0" />
+</Configuration>
